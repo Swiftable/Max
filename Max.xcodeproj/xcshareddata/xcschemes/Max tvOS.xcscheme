@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B3C932ED1D0471160045E8A0"
+               BlueprintIdentifier = "B3C933351D0475710045E8A0"
                BuildableName = "Max.framework"
-               BlueprintName = "Max"
+               BlueprintName = "Max tvOS"
                ReferencedContainer = "container:Max.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,7 +28,26 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B3C933411D0475A80045E8A0"
+               BuildableName = "Tests.xctest"
+               BlueprintName = "Tests tvOS"
+               ReferencedContainer = "container:Max.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "B3C933351D0475710045E8A0"
+            BuildableName = "Max.framework"
+            BlueprintName = "Max tvOS"
+            ReferencedContainer = "container:Max.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -45,9 +64,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B3C932ED1D0471160045E8A0"
+            BlueprintIdentifier = "B3C933351D0475710045E8A0"
             BuildableName = "Max.framework"
-            BlueprintName = "Max"
+            BlueprintName = "Max tvOS"
             ReferencedContainer = "container:Max.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +82,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B3C932ED1D0471160045E8A0"
+            BlueprintIdentifier = "B3C933351D0475710045E8A0"
             BuildableName = "Max.framework"
-            BlueprintName = "Max"
+            BlueprintName = "Max tvOS"
             ReferencedContainer = "container:Max.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
